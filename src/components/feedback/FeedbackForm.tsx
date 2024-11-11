@@ -8,7 +8,6 @@ import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import * as z from "zod";
 import RatingSection from "./RatingSection";
-import TextFeedbackSection from "./TextFeedbackSection";
 import ContactSection from "./ContactSection";
 import MarketingConsent from "./MarketingConsent";
 import SubmissionStatus from "./SubmissionStatus";
